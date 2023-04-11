@@ -12,3 +12,32 @@ body {
     margin: auto;
     padding: 0 50px 0 50px;
 }
+
+.section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.item-container {
+    max-width: 50%;
+    min-width: 400px;
+    margin: 10px;
+}
+
+.forms {
+    text-align: center;
+}
+
+.forms input {
+    font-size: 18px;
+    border: none;
+    border-radius: 9px;
+    padding: 13px;
+}
+
+.forms .field {
+    width: 250px;
+    
+    margin: 5px;
+}
