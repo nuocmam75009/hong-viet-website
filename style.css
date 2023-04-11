@@ -1,0 +1,14 @@
+body {
+    background-color: #E6CA8C;
+}
+
+#header {
+    text-align: center;
+}
+
+#content {
+    min-width: 360px;
+    max-width: 1200px;
+    margin: auto;
+    padding: 0 50px 0 50px;
+}
